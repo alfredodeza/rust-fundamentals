@@ -1,5 +1,4 @@
 
-
 fn main() {
     let message = String::from("Name: Alfredo, Height: ");
     message.clear();
@@ -8,4 +7,3 @@ fn main() {
     println!("{}{}", message, height);
 
 }
-
