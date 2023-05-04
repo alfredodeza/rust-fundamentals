@@ -10,6 +10,7 @@
         "./examples/6-conditionals/conditionals/Cargo.toml",
         "./examples/7-while-loops/user-input/Cargo.toml",
         "./examples/7-while-loops/while-loops/Cargo.toml",
-        "./examples/8-for-loops/for-loop/Cargo.toml"
+        "./examples/8-for-loops/for-loop/Cargo.toml",
+        "./examples/9-break-and-continue/loop-control/Cargo.toml"
     ]
 }
