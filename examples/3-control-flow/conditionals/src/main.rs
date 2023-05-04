@@ -1,5 +1,5 @@
 fn main() {
-    let proceed = true
+    let proceed = false;
     if proceed {
         println!("Proceeding");
     } else {
@@ -7,7 +7,7 @@ fn main() {
     }
 
     let height = 190;
-    if height > 180 {
+    if height < 180 {
         println!("Tall");
     } else if height > 170 {
         println!("Average");

@@ -1,8 +1,8 @@
 
 fn main() {
-    let message = String::from("Name: Alfredo, Height: ");
+    let mut message = String::from("Name: Alfredo, Height: ");
     message.clear();
-    let height = 190;
+    let mut height = 190;
     height = 189;
     println!("{}{}", message, height);
 

@@ -3,6 +3,8 @@
         "./examples/1-components/project/Cargo.toml",
         "./examples/1-components/project/Cargo.toml",
 	"./examples/2-variables/mutable/Cargo.toml",
-	"./examples/2-variables/variables/Cargo.toml"
+	"./examples/2-variables/variables/Cargo.toml",
+	"./examples/3-control-flow/conditionals/Cargo.toml",
+    "./examples/4-shadowing/shadowing/Cargo.toml",
     ]
 }
