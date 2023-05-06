@@ -1,9 +1,14 @@
-fn modify_vec(vec: Vec<i32>) -> Vec<i32> {
-    let mut new_vec = Vec::new();
-    for i in 0..vec.len() {
-        new_vec.push(vec[i] + 1);
-    }
-    new_vec
+fn own_vec(mut vector: Vec<i32>) {
+    vector.push(10);
+    println!("{:?}", vector);
+}
+
+fn own_integer(x: i32) {
+    x + 1;
+}
+
+fn own_string(s: String) {
+    println!("{}", s);
 }
 
 // Borrowing is the mechanism by which Rust allows you to lend ownership of a variable to a function 
@@ -12,11 +17,20 @@ fn modify_vec(vec: Vec<i32>) -> Vec<i32> {
 // "I want to use this variable for a little while, but I promise I won't modify it."
 fn main() {
     let mut my_vec = vec![1, 2, 3, 4, 5];
-    // this is borrowing the variable my_vec
-    let first = &my_vec[0];
-    modify_vec(my_vec);
-    // but this is using first which was borrowed and yet is now invalid
-    println!("{:?}", first);
+    let my_int = 10;
+    let my_string = String::from("Hello, world!");
+
+    // this compiles no problem!
+    own_integer(my_int);
+    println!("{}", my_int);
+
+    own_string(my_string); // take ownership of my_string
+    // this is using my_string which has also moved and is invalid
+    //println!("{:?}", my_string); // this will not compile!
+
+    own_vec(my_vec);
+    // but this is using my_vec which was borrowed (moved) and yet is now invalid
+    //println!("{:?}", my_vec); // this will not compile!
 }
 
 // Borrowing is a key concept in Rust because it allows you to write code that is both safe and efficient. 
