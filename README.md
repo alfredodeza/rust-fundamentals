@@ -36,3 +36,12 @@ This repository is *Codespaces ready*, and it is set as a template repository. Y
 - [Rust Book](https://doc.rust-lang.org/book/)
 - [First steps with Rust Learning Path](https://learn.microsoft.com/training/paths/rust-first-steps/?WT.mc_id=academic-0000-alfredodeza)
 - [DevOps command-line tools in Python and Rust](https://learning.oreilly.com/videos/devops-command-line-tools/28037639VIDEOPAIML/)
+
+**Coursera Courses**
+
+- [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
+- [Open Source Platforms for MLOps](https://www.coursera.org/learn/open-source-platforms-duke)
+- [Python Essentials for MLOps](https://www.coursera.org/learn/python-essentials-mlops-duke)
+- [Web Applications and Command-Line tools for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
+- [Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke)
+- [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
