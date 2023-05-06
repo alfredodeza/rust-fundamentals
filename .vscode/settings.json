@@ -12,5 +12,6 @@
         "./examples/7-while-loops/while-loops/Cargo.toml",
         "./examples/8-for-loops/for-loop/Cargo.toml",
         "./examples/9-break-and-continue/loop-control/Cargo.toml"
+        "./examples/10-match-control-flow/match-control/Cargo.toml"
     ]
 }
