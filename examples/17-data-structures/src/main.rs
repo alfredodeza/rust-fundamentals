@@ -19,7 +19,7 @@ fn main() {
     let south = Direction::South;
     let west = Direction::West;
 
-    // print enum values with make use of ":?" as the data type does
+    // print enum values with make use of the debug marker ":?" as the data type does
     // not implement the display trait (traits are covered later)
     println!("{:?}", north);
     println!("{:?}", east);
