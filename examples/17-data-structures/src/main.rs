@@ -8,7 +8,7 @@ fn main() {
     // for later use.
     let new_data = Data{name:"toure".to_string(), age:42};
 
-    // Here we reference the name field in our instance of the Data with
+    // Here we reference the name and age fields in our instance of the Data with
     // the dot notation
     println!("Hello, {}", new_data.name);
     println!("Your favorite number is {}", new_data.age);
