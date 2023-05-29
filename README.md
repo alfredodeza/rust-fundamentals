@@ -4,6 +4,11 @@ _Rust Bootcamp week 2: Rust Fundamentals_
 
 This week, you will learn how to create a Rust project using Cargo and how all files and components work together. Additionally, you will understand variables, assignment, and controlling flow with logic, loops and other conditional statements. Finally, you'll create functions and get used to the borrowing concept in Rust as well as working with error handling using `match`.
 
+This is [week 2] of the Rust Bootcamp. There are 3 other weeks available:
+- [week 1](https://github.com/alfredodeza/rust-setup)
+- [week 3](https://github.com/alfredodeza/rust-structs-types-enums/)
+- [week 4](https://github.com/alfredodeza/applied-rust)
+
 ## Contents
 This week has several examples located in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
 
