@@ -2,9 +2,9 @@
     "rust-analyzer.linkedProjects": [
         "./examples/1-components/project/Cargo.toml",
         "./examples/1-components/project/Cargo.toml",
-	"./examples/2-variables/mutable/Cargo.toml",
-	"./examples/2-variables/variables/Cargo.toml",
-	"./examples/3-control-flow/conditionals/Cargo.toml",
+        "./examples/2-variables/mutable/Cargo.toml",
+        "./examples/2-variables/variables/Cargo.toml",
+        "./examples/3-control-flow/conditionals/Cargo.toml",
         "./examples/4-shadowing/shadowing/Cargo.toml",
         "./examples/5-loops/loops/Cargo.toml",
         "./examples/6-conditionals/conditionals/Cargo.toml",
@@ -13,6 +13,12 @@
         "./examples/8-for-loops/for-loop/Cargo.toml",
         "./examples/9-break-and-continue/loop-control/Cargo.toml",
         "./examples/10-match-control-flow/match-control/Cargo.toml",
-        "./examples/11-unit-functions/unit/Cargo.toml"
+        "./examples/11-unit-functions/unit/Cargo.toml",
+        "./examples/12-return-values/values/Cargo.toml",
+        "./examples/13-function-arguments/values/Cargo.toml",
+        "./examples/14-borrowing/borrowing/Cargo.toml",
+        "./examples/15-panic/panicking/Cargo.toml",
+        "./examples/16-error-handling/error-handling/Cargo.toml",
+        "./examples/17-data-structures/Cargo.toml"
     ]
 }
