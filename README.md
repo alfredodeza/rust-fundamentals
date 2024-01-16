@@ -1,4 +1,6 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=635741999)
+# [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/58m "Coursera Specialization")
+
+This repository is part of the Rust Fundamentals Coursera course and Systems Engineering specialization by Duke University
 
 # Rust Fundamentals
 
@@ -24,6 +26,8 @@ This is week 2 of the Rust Bootcamp. There are 4 weeks in total:
 This week has several examples located in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
 
 This repository is *Codespaces ready*, and it is set as a template repository. You can create a new repository from this template and start working on your own with Codespaces. This means that Rust, Copilot, and all the extensions are already installed and configured for you.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=635741999)
 
 ### Lesson 1: Introduction to Rust
 - [Overview of project files](./examples/1-components/)
