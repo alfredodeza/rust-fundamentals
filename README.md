@@ -1,4 +1,4 @@
-# [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/58m "Coursera Specialization")
+# [![Coursera Course](./assets/banner.svg)](https://ds500.paiml.com/bootcamps/rust/ "Join the Bootcamp")
 
 This repository is part of the Rust Fundamentals Coursera course and Systems Engineering specialization by Duke University
 
