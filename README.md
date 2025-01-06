@@ -20,7 +20,7 @@ This is week 2 of the Rust Bootcamp. There are 4 weeks in total:
 
 🚀 **Watch the Video course**
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
+[![DS500](https://ds500.paiml.com/assets/social/g6u1k.png)](https://ds500.paiml.com/learn/course/g6u1k/ "Rust Fundamentals Course")
 
 ## Contents
 This week has several examples located in the [./examples](./examples) directory. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
